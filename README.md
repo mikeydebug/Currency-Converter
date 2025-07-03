@@ -6,7 +6,7 @@ A sleek and interactive Currency Converter built using **HTML**, **CSS**, and **
 
 ## 🌐 Live Demo
 👉 [Click here to try it out](https://your-live-deployment-link.com)  
-*(Add your GitHub Pages/Netlify/Vercel link here)*
+
 
 ---
 
@@ -33,7 +33,8 @@ A sleek and interactive Currency Converter built using **HTML**, **CSS**, and **
 
 ## 📸 Preview
 
-![Currency Converter Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![Currency Converter Screenshot](<img width="657" alt="Screenshot 2025-07-03 at 7 38 38 PM" src="https://github.com/user-attachments/assets/0c1f4254-8a0c-4a9b-a36a-4037396d5439" />)
+
 
 ---
 

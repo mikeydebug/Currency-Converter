@@ -60,7 +60,7 @@ Currency Converter/
 
 1. Clone this repository:
    
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/mikeydebug/Currency-Converter.git
    
 2.	Open index.html in your browser. That’s it!
 
@@ -74,7 +74,11 @@ Built as a practical project to understand API integration, DOM manipulation, an
 
 •	Flags API
 •	Fawaz Ahmed’s Currency API
+
+
 ---
+
+
 ## 💻 Developed By
 
 Mayank Soni
